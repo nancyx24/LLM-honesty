@@ -1,4 +1,4 @@
-# Experiments on LLM honesty.
+# Experiments on LLM honesty
 
 This repository is an extension of a project on AI honesty I started while at an alignment hackathon at Anthropic in March 2025. When a language model is asked a question it could not answer, it would sometimes make up a convincing-looking explanation for an answer that is totally off the marks. One potential solution to this problem is that we can leverage the language model’s own knowledge about whether or not the response is correct to help us identify correct responses.
 
